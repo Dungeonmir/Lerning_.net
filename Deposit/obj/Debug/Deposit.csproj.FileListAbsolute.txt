@@ -1,0 +1,7 @@
+D:\Sergo\GitHub\Deposit\bin\Debug\Deposit.exe.config
+D:\Sergo\GitHub\Deposit\bin\Debug\Deposit.exe
+D:\Sergo\GitHub\Deposit\bin\Debug\Deposit.pdb
+D:\Sergo\GitHub\Deposit\obj\Debug\Deposit.csprojAssemblyReference.cache
+D:\Sergo\GitHub\Deposit\obj\Debug\Deposit.csproj.CoreCompileInputs.cache
+D:\Sergo\GitHub\Deposit\obj\Debug\Deposit.exe
+D:\Sergo\GitHub\Deposit\obj\Debug\Deposit.pdb
