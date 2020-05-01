@@ -17,7 +17,8 @@ namespace Lern_.net
             Console.WriteLine("Процентная ставка: ");
             percents = Convert.ToDecimal(Console.ReadLine());
             percents /= 1200;
-
+// Делю на 1200, так как деление на 100 - проценты 
+// Деление на 12 - годовые в месячные.
             int srok;
             Console.WriteLine("Срок вклада (в месяцах): ");
             srok = Convert.ToInt32(Console.ReadLine());
